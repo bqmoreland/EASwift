@@ -59,6 +59,7 @@
 		240A6036231AF69C0047FFFC = {
 			isa = PBXGroup;
 			children = (
+				240A6062231AF6EB0047FFFC /* Source */,
 				240A6041231AF69C0047FFFC /* EssentialAlgorithmsSwift */,
 				240A6056231AF69D0047FFFC /* EssentialAlgorithmsSwiftTests */,
 				240A6040231AF69C0047FFFC /* Products */,
@@ -94,6 +95,13 @@
 				240A6059231AF69D0047FFFC /* Info.plist */,
 			);
 			path = EssentialAlgorithmsSwiftTests;
+			sourceTree = "<group>";
+		};
+		240A6062231AF6EB0047FFFC /* Source */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
